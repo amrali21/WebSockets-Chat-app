@@ -1,0 +1,35 @@
+chat app
+
+npm init *
+install packages *
+
+add “start”: “nodemon app” **CHECK
+
+bunch of js server code *
+
+sock.io code *
+
+views, public, render *
+
+imported jquery,ajax, chat.js **CHECK
+
+write code in chat.js (runs when client connects) CHECK**
+
+username change *
+
+server messages *
+
+implement typing *
+
+test.. *
+
+check sample code *
+
+jquery '$'???CHECK
+
+phone x_x x*
+
+try
+
+
+document.. *
